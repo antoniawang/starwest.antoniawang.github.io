@@ -1,7 +1,8 @@
 ## What Test Users Must Know About Git and Github
 
 Tutorial at Starwest Conference.
+### October 2017
 
 ```
-### October 2017
+Disneyland Hotel
 ```
